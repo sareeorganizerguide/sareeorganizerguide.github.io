@@ -1,0 +1,50 @@
+# Saree Organizer Guide
+
+## About
+Expert saree storage reviews, guides, and product comparisons tested in real Indian wardrobes through monsoon season. We help saree collectors store their silk, Kanjivaram, Banarasi, and daily-wear sarees properly to prevent damage from moisture, fungus, moths, and zari tarnishing.
+
+## Key Topics
+- How to store sarees for long time
+- Silk saree storage and preservation
+- Kanjivaram and Banarasi saree care
+- Zari protection and anti-tarnish storage
+- Small wardrobe saree organization
+- Monsoon and moisture protection
+- Travel packing for sarees
+- Saree storage product reviews
+- Fungus prevention and removal
+- Saree restoration and dry cleaning
+
+## Site Structure
+31 pages across 6 content clusters:
+- Cluster 1: Silk Saree Storage (5 articles)
+- Cluster 2: Wardrobe & Small Space (4 articles)
+- Cluster 3: Monsoon & Moisture Protection (4 articles)
+- Cluster 4: Travel & Packing (4 articles)
+- Cluster 5: Fabric Care & Restoration (4 articles)
+- Cluster 6: Product Reviews & Comparisons (4 articles)
+- Pillar: How to Store Sarees for Long Time (index.html)
+- Hub: Blog listing (blog.html)
+- Utility: About, Contact, Privacy, Testing Process
+
+## Target Audience
+Indian saree collectors aged 25-55, primarily women, living in urban and suburban India. Readers typically own 10-100+ sarees and struggle with storage space, monsoon humidity, and preserving heirloom pieces.
+
+## Content Standards
+- Practical, actionable advice tested in Indian climate conditions
+- Specific product recommendations with pricing
+- Honest pros and cons based on real testing
+- Affiliate relationships disclosed transparently
+- Author: Priya Menon — saree collector and textile storage specialist
+- All content original, written for human readers, no AI-generated filler
+
+## Key Facts
+- Amazon affiliate tag: koirevicky-21
+- Brand: Saree Organizer Guide
+- Domain: sareeorganizerguide.github.io
+- Founded: 2024
+- Language: English (Indian English)
+- Testing approach: Real wardrobe testing through monsoon season in Mumbai
+
+## Internal Link Structure
+Every article links back to the pillar page (index.html) with anchor text "how to store sarees for long time". Articles within the same cluster link to each other. Cross-cluster links connect related topics (e.g., Silk Storage ↔ Fabric Care).
